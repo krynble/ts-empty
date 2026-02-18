@@ -1,0 +1,20 @@
+{
+  "name": "ts-empty",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "tsx src/main.ts",
+    "build": "tsc",
+    "lint": "eslint src/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.0.0",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3",
+    "typescript-eslint": "^8.56.0"
+  }
+}
